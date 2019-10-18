@@ -1,0 +1,4 @@
+build:
+    environment:
+        sdkman:
+            - java@12.0.0-open
